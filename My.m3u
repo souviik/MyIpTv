@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DEVIL  BOX  CHANNELS" tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png",G TV
-http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEVIL  BOX  CHANNELS" tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png",Somoy
-http://103.107.79.87:8080/1111/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEVIL  BOX  CHANNELS" tvg-logo="https://i.ibb.co/HTf0zzr/IMG-20240126-092334.jpg",Deepto TV
-http://103.107.79.87:8080/1105/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEVIL  BOX  CHANNELS" tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png",MOVIE BANGLA
-http://103.107.79.87:8080/1138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.png",ETV BANGLA
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
